@@ -1,10 +1,13 @@
 # k12seminar
 
 Alamklasse kasutatakse oleamsolevate atribuutide ja meetodite taaskasutamiseks.
+
 Alamklass, ehk klass mis kasutab mõne teise klassi atribuute/meetode - subclass e. child
+
 Klass millelt atribuute ja meetode laenatakse - superclass e. parent
 
 // Näite superclass e. parent
+
 
 	class Vehicle {
 		protected String brand = "Ford";
@@ -12,6 +15,7 @@ Klass millelt atribuute ja meetode laenatakse - superclass e. parent
 			System.out.println("Tuut, tuut!");
 		}	
 	}
+
 
 // Näite subclass e. child
 
