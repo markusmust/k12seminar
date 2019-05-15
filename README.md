@@ -37,7 +37,7 @@ Klass millelt atribuute ja meetode laenatakse - superclass e. parent
 	}
 
 
-Abstract klassid 
+ 
 
 Abstact classi peab extendima.
 
