@@ -39,3 +39,9 @@ Klass millelt atribuute ja meetode laenatakse - superclass e. parent
 
 Abstract klassid 
 
+Abstact classi peab extendima.
+
+Ei saa luua sellest objekte.
+
+Aitab keskenduda sellele, mida objekt teeb, mitte kuidas seda tehakse.
+
